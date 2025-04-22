@@ -1,0 +1,16 @@
+# Ignore Visual Studio temporary files
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+
+# Ignore build outputs
+Debug/
+Release/
+x64/
+*.obj
+*.exe
+*.log
+*.pch
